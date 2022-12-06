@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    background-color: azure;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
