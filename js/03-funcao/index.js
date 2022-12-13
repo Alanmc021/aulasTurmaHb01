@@ -18,10 +18,31 @@
 // function somarDoisValores(num1, num2, isValid) {
 //     console.log(isValid);
 //     res = num1 + num2
-//     return res;
+
 // }
 
+// const result = (num) => {
+//     // if (num > 0) {
+//     //     return null
+//     // }else{
+//     //     return true
+//     // }
+// }
+
+// console.log(result(10));
+
+// let resposta = result(10)
+
+// console.log(resposta);
+
+// console.log(somarDoisValores(10, 20, true));
+
+ 
 
 
-
-console.log(somarDoisValores(10, 20, true));
+let res =  function primeiraFuncao(x){
+     console.log(valor);
+     return x
+}
+ 
+console.log(res(10))
