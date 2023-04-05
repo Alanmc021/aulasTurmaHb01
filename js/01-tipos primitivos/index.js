@@ -38,3 +38,21 @@ console.log(listaDeAlunos);
 // const colecaoDeNumeros = [numero1 , numero2, numero3]
 
 // console.log(colecaoDeNumeros);
+
+
+//operadores 
+let a = 10
+let b = 20
+
+// console.log(a + b); 
+// console.log(a - b); 
+// console.log(a * b); 
+// console.log(a / b); 
+//console.log(a > b); 
+//console.log(a < b); 
+//console.log(a == b); 
+//console.log(a === b);
+// console.log(a >= b); 
+// console.log(a <= b);
+//console.log(a > 3 && b < 100 && a === 10 );
+//console.log(a > 3 || b === a );
