@@ -39,20 +39,45 @@ console.log(listaDeAlunos);
 
 // console.log(colecaoDeNumeros);
 
+//OPERADORES LOGICOS
 
-//operadores 
-let a = 10
-let b = 20
+let primeiroNumero = 10;
+let segundoNumero  = 3;
 
-// console.log(a + b); 
-// console.log(a - b); 
-// console.log(a * b); 
-// console.log(a / b); 
-//console.log(a > b); 
-//console.log(a < b); 
-//console.log(a == b); 
-//console.log(a === b);
-// console.log(a >= b); 
-// console.log(a <= b);
-//console.log(a > 3 && b < 100 && a === 10 );
-//console.log(a > 3 || b === a );
+console.log("###########################")
+//somar
+console.log(`Somar: ${primeiroNumero + segundoNumero}`);
+//subtrair
+console.log(`Subtrair: ${primeiroNumero - segundoNumero}`);
+//multiplicacao
+console.log(`Multiplicar: ${primeiroNumero * segundoNumero}`);
+//divide
+console.log(`Dividir: ${primeiroNumero / segundoNumero}`);
+//comparar
+console.log(`Comparar: ${primeiroNumero == segundoNumero} `);
+console.log(`Comparar: ${primeiroNumero === segundoNumero}`);
+//Boca do jacare
+console.log(`Jacaré >: ${primeiroNumero > segundoNumero}`);
+console.log(`Jacaré <: ${primeiroNumero < segundoNumero}`);
+//Compadores logicos   || e &&
+console.log(10 > 3 || 3  === 10 );
+console.log(10 > 3 && 3 === 10 );
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
